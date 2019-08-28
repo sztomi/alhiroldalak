@@ -219,3 +219,10 @@
 0.0.0.0	gmw.cn
 0.0.0.0	china.com.cn
 0.0.0.0 alikunlun.com
+# nvidia spying domains
+0.0.0.0 ls.dtrace.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 accounts.nvgs.nvidia.com
+0.0.0.0 nvidia.tt.omtrdc.net
+0.0.0.0 api.commune.ly
+0.0.0.0 login.nvgs.nvidia.cn
